@@ -25,6 +25,11 @@ table input {
 input {
   width: 100%;
 }
+#submit {
+  width: 10%;
+  margin-left: 40%;
+  background-color: rgba(10, 152, 247, 0.7)
+}
 #submit:hover {
   cursor: pointer;
 }
