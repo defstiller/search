@@ -25,3 +25,6 @@ table input {
 input {
   width: 100%;
 }
+#submit:hover {
+  cursor: pointer;
+}
