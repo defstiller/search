@@ -1,0 +1,27 @@
+h1 {
+  border-bottom: 1px solid rgb(212, 208, 208);
+  color: red;
+}
+aside {
+  text-align: right;
+  color: #202124;
+}
+
+aside li {
+  display: inline-block;
+  padding: 20px;
+}
+
+main table {
+  margin: 10px;
+  width: 50%;
+  border-spacing: 10px;
+}
+table input {
+  border: 1px solid rgb(212, 206, 206);
+  height: 25px;
+}
+
+input {
+  width: 100%;
+}
